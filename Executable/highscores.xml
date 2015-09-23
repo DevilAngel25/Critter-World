@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLeaderInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LeaderInfo>
+    <CritterName>DeadReckoner</CritterName>
+    <Creator>Dave Voorhis</Creator>
+    <Finishes>1</Finishes>
+    <TotalTimeToGoal>240903592</TotalTimeToGoal>
+  </LeaderInfo>
+</ArrayOfLeaderInfo>
